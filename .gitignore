@@ -27,5 +27,4 @@ venv/
 # Cache
 nilearn_cache/
 
-results/
 *.sif
