@@ -2,7 +2,7 @@
 
 Below is the code used for the imaging analyses in the paper "Scaling up naturalistic narrative research: A reproducible large language model-based tool for evaluating contextual information gain"
 
-Authors: Rohin A. Palsule*, Aidan Goeschel*, Jungsun Yoo, Janice Chen✝, Aaron M. Bornstein✝, Ari Khoudary✝
+Authors: Rohin A. Palsule*, Aidan Goeschel*, Jungsun Yoo, Janice Chen*, Aaron M. Bornstein*, Ari Khoudary*
 
 DOI: https://doi.org/10.64898/2026.11.14.766702
 
