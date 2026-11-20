@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+.venv/
+venv/
+
+# Data and outputs
+*.nii
+*.nii.gz
+*.nii.bz2
+*.mat
+*.npz
+*.npy
+*.csv
+*.tsv
+
+# Logs
+*.out
+*.err
+*.log
+
+# Environment
+.env
+
+# Cache
+nilearn_cache/
+
+results/
+*.sif
