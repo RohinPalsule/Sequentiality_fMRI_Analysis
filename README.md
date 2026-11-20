@@ -24,6 +24,8 @@ ISFC at top 5 behavioral peaks (Figure 2C): ISFC/
 
 Many additional analyses separate from the paper are still available in this repository, including MVPA analyses (MVPA/) and functional connectivity (ISFC/(FC Scripts) and SeedVoxel_old/) 
 
+The Sequentiality values calculated for the continuous modulations are in sequentiality_events/ . This is what was also used to align behavioral peaks in Sequentiality.
+
 Compiling of these scripts is still ongoing before official publication, if something is missing or broken feel free to reach out! Scripts for plotting and visualizing results will be available soon!
 
 ---

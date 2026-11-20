@@ -32,8 +32,8 @@ class SequentialityGLM:
         self.confound_filename_2 = os.path.join(bold_path,'LeeChenfMRIPrep',f'sub-{self.SUB_ID}','func',f'sub-{self.SUB_ID}_task-movie_run-02_desc-confounds_timeseries.tsv')
 
         # Events filenames
-        self.event_filename_1 = os.path.join('sequentiality_events',f'filmfest_sequentiality_run-01_events.tsv')
-        self.event_filename_2 = os.path.join('sequentiality_events',f'filmfest_sequentiality_run-02_events.tsv')
+        self.event_filename_1 = os.path.join('../sequentiality_events',f'filmfest_sequentiality_run-01_events.tsv')
+        self.event_filename_2 = os.path.join('../sequentiality_events',f'filmfest_sequentiality_run-02_events.tsv')
 
         # Creates a path for Localzier outputs
         self.output_dir = Path.cwd() / "results" / "GLM"
