@@ -15,7 +15,7 @@ echo "Running glm"
 
 singularity exec \
     --bind /mnt/data1:/mnt/data1 \
-    mypython.sif \
+    ../mypython.sif \
     python FilmFest_GLM.py $SUBJ
 
 

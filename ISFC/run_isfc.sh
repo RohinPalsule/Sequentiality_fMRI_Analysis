@@ -11,8 +11,8 @@ echo "Running isfc"
 
 singularity exec \
     --bind /mnt/data1:/mnt/data1 \
-    mypython.sif \
-    python ISFC_pipeline.py fc
+    ../mypython.sif \
+    python ISFC_pipeline.py isfc
 
 
 

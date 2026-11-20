@@ -11,7 +11,7 @@ echo "Running mvpa"
 
 singularity exec \
     --bind /mnt/data1:/mnt/data1 \
-    mypython.sif \
+    ../mypython.sif \
     python temporal_mvpa.py
 
 
